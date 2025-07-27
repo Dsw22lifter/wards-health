@@ -28,4 +28,4 @@ export default function Privacy() {
     </main>
   );
 }
-Add privacy policy page
+
